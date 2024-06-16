@@ -28,10 +28,10 @@ make
 2. Sign up
 3. Exit
 Enter your choice (1-3): 1
-Enter your username: nilay
+Enter your username: sehaj
 Enter your password: 123
 Login successful!
-Welcome nilay!
+Welcome sehaj!
 Press 0 to logout at any point
 Welcome to the metro path finder
 
@@ -63,9 +63,3 @@ Exiting the program. Goodbye!
 ### Generated Images:
 * Shortest Path
 * Village Map
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-Special thanks to the authors of Graphviz.
